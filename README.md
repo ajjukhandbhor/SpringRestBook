@@ -1,3 +1,3 @@
 # SpringRestBook
 
-This is the Crud Application for creating the Rest API
+This is the Rest API CRUD Application. 
